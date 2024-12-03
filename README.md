@@ -17,6 +17,7 @@ deltamaker-orcaslicer-profile/
 ```
 
 3. 	Locate Orca Slicer’s Profiles Directory:
+
 	Windows:
 	- Navigate to the installation directory, typically, 
         C:\Program Files\OrcaSlicer\resources\profiles\
